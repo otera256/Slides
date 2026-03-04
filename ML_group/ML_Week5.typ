@@ -139,29 +139,15 @@
 == Dropout (詳細)
 
 学習時にランダムにニューロンを無効化する。
-
+#align(center)[
+  #image("images/dropout.png", width: 80%)
+]
 #grid(
   columns: (1fr, 1fr),
   align(center)[
-    // 画像: Dropoutの概念図（ノードが×になっている図）
-    // week4のスライドと同じような図を想定
-    #diagram(
-      spacing: 20pt,
-      node((0,0), shape: circle, fill: gray), node((1,0), shape: circle, stroke: gray, label: $times$),
-      node((0,1), shape: circle, stroke: gray, label: $times$), node((1,1), shape: circle, fill: gray),
-      edge((0,0),(1,1)),
-    )
     *Training (確率 $p$ でDrop)*
   ],
   align(center)[
-    // 画像: 全結合の図
-    #diagram(
-      spacing: 20pt,
-      node((0,0), shape: circle, fill: gray), node((1,0), shape: circle, fill: gray),
-      node((0,1), shape: circle, fill: gray), node((1,1), shape: circle, fill: gray),
-      edge((0,0),(0,1)), edge((0,0),(1,1)),
-      edge((1,0),(0,1)), edge((1,0),(1,1)),
-    )
     *Inference (全ノード使用)*
   ]
 )
@@ -212,8 +198,6 @@ $arrow.r$ *畳み込み層 (Convolutional Layer)* の導入
 
 「フィルタ（カーネル）」をスライドさせながら、局所的な積和演算を行う。
 
-// 画像: 3Blue1Brownの動画のような、フィルタが画像をスキャンしていくアニメーションのイメージ
-// https://github.com/3b1b/manim
 #align(center)[
   #[フィルタによる局所特徴の抽出イメージ]
   
