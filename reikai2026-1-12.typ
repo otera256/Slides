@@ -17,7 +17,7 @@
   config-info(
     title: [BevyとWGSLでマンデルブロ集合を描画する],
     author: [49th furakuta],
-    date: datetime.today(),
+    date: [2026-01-12],
     institution: [KMC],
   )
 )
@@ -699,6 +699,8 @@ fn mandelbrot(dc: vec2<f32>) -> f32 {
 
 #pause
 WebGPUを用いることによって、以下のアルゴリズムを参考にさせてもらった記事にあったPython実装では数秒かかっていた描画計算を毎フレーム実行計算できるようになり、インタラクティブな探索が可能になり非常に満足
+
+#link("https://github.com/otera256/bevy-mandelbrot")[GitHub  otelra256/bevy-mandelbrot]にコードを公開しているので、興味がある方はぜひ見てみてください
 
 参考文献
 - #link("https://qiita.com/T-STAR/items/91e1975b19d2d4e6d0dc")[Qiita  Pythonでマンデルブロ集合を美しく描画する(基礎編)]
