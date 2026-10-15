@@ -1,0 +1,20 @@
+{
+  "R01": {"title":"VRChat, Full-Body Tracking", "url":"https://docs.vrchat.com/docs/full-body-tracking"},
+  "R02": {"title":"SlimeVR 101", "url":"https://docs.slimevr.dev/slimevr101"},
+  "R03": {"title":"VRChat, OSC Trackers", "url":"https://docs.vrchat.com/docs/osc-trackers"},
+  "R04": {"title":"Valve, SteamVR Hardware (2016)", "url":"https://cdn.akamai.steamstatic.com/apps/steamdevdays/slides2016/SteamVRTracking.pdf"},
+  "R05": {"title":"Meta, Powered by AI: Oculus Insight (2019)", "url":"https://ai.meta.com/blog/powered-by-ai-oculus-insight/"},
+  "R06": {"title":"Meta, Hand tracking on Oculus Quest (2019)", "url":"https://ai.meta.com/blog/hand-tracking-deep-neural-networks/"},
+  "R07": {"title":"OptiTrack, Markers", "url":"https://docs.optitrack.com/v3.0/motive/markers"},
+  "R08": {"title":"HTC, VIVE Ultimate Tracker", "url":"https://shop-us.vive.com/pages/vive-ultimate-tracker"},
+  "R09": {"title":"KirisameNanoha, VIVEトラッカーを作ってみよう", "url":"https://note.com/kirisamenanoha/n/nd3ba7207bc5b"},
+  "R10": {"title":"Woodman, An introduction to inertial navigation (2007)", "url":"https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-696.html"},
+  "R11": {"title":"OpenStax, The Biot–Savart Law", "url":"https://openstax.org/books/university-physics-volume-2/pages/12-1-the-biot-savart-law"},
+  "R12": {"title":"FluxPose, Technology", "url":"https://www.fluxpose.com/technology"},
+  "R13": {"title":"Polhemus, G4 User Manual, Appendix B", "url":"https://polhemus.com/_assets/img/G4_User_Manual_URM10PH238-D.pdf"},
+  "R14": {"title":"GTSAM, FixedLagSmoother", "url":"https://borglab.github.io/gtsam/fixedlagsmoother/"},
+  "R15": {"title":"Ly et al., A Tutorial on Fisher Information (2017)", "url":"https://arxiv.org/abs/1705.01064"},
+  "R16": {"title":"Bosch Sensortec, BMM350 datasheet", "url":"https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmm350-ds001.pdf"},
+  "R17": {"title":"STMicroelectronics, LSM6DSV16X datasheet", "url":"https://www.st.com/resource/en/datasheet/lsm6dsv16x.pdf"},
+  "P01": {"title":"参照会話「トラッカー自作」", "url":"https://chatgpt.com/c/6a9c2016-ac18-83e8-93d7-71f54d21191f"}
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "I01",
+    "path": "references/products/vive-fullbody-background.jpg",
+    "publisher": "HTC VIVE",
+    "title": "VIVE Tracker (3.0): Full-body tracking",
+    "page_url": "https://www.vive.com/us/accessory/tracker3/",
+    "image_url": "https://www.vive.com/media/filer_public/fed-assets/tracker3/images/full-body-tracking-1920-bg.jpg",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "身体の動きを仮想のキャラクターへ反映する利用イメージ。",
+    "sha256": "374d150b5799810389074b2755cb05c0feff171e59eae64487d08fe059012f65"
+  },
+  {
+    "id": "I02",
+    "path": "references/products/ultimate-wearing.jpg",
+    "publisher": "HTC VIVE",
+    "title": "VIVE Ultimate Tracker: 装着例",
+    "page_url": "https://www.vive.com/us/accessory/vive-ultimate-tracker/",
+    "image_url": "https://www.vive.com/media/filer_public/fed-assets/vive-ultimate-tracker/images/jpg/ksp2-1920.jpg",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "腰・足への装着を示すメーカーの利用イメージ。青い効果は説明用の視覚表現。",
+    "sha256": "21c81939358e17227cda095cf16c80e4f40ff4b9cfa366cbbcb9076c5005b115"
+  },
+  {
+    "id": "I03",
+    "path": "references/products/vive-tracker3.png",
+    "publisher": "HTC VIVE",
+    "title": "VIVE Tracker (3.0): 製品写真",
+    "page_url": "https://www.vive.com/us/accessory/tracker3/",
+    "image_url": "https://www.vive.com/media/filer_public/fed-assets/tracker3/images/size-tracker3-1920.png",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "本体表面の受光部と形状を示す。",
+    "sha256": "1194bcf69ae5a964e28628b3cd34883452aec22b2878ea5ce514129e64372e13"
+  },
+  {
+    "id": "I04",
+    "path": "references/products/base-station2.png",
+    "publisher": "HTC VIVE",
+    "title": "SteamVR Base Station 2.0: 製品写真",
+    "page_url": "https://www.vive.com/us/accessory/tracker3/",
+    "image_url": "https://www.vive.com/media/filer_public/fed-assets/tracker3/images/related-products/related-bs20.png",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "固定局の外観。Valveの2016年原理図とは世代が異なる。",
+    "sha256": "47016740ac81cbac76dfab1d65343a00d9290d31c54765f8832f1bae52eca4fc"
+  },
+  {
+    "id": "I05",
+    "path": "references/products/valve-time-to-angle.png",
+    "publisher": "Ben Jackson / Valve",
+    "title": "SteamVR Hardware (2016), PDF p.8, Turning Time into Angle",
+    "page_url": "https://cdn.akamai.steamstatic.com/apps/steamdevdays/slides2016/SteamVRTracking.pdf#page=8",
+    "image_url": "https://cdn.akamai.steamstatic.com/apps/steamdevdays/slides2016/SteamVRTracking.pdf",
+    "accessed": "2026-10-15",
+    "treatment": "PDFの8ページ目の左側の図部分を抜粋してラスタライズ。原図の色・記号・ラベルを維持。",
+    "context": "同期フラッシュと回転レーザーの時間差を示すLighthouse 1.0の解説図。2.0の同期方式とは区別する。",
+    "sha256": "b8d31eca4afaf95c1fb0daab83643ef6a3563888e81166180f5ba138099b32ad"
+  },
+  {
+    "id": "I06",
+    "path": "references/products/ultimate-cameras.jpg",
+    "publisher": "HTC VIVE",
+    "title": "VIVE Ultimate Tracker: 2つのカメラ",
+    "page_url": "https://www.vive.com/us/accessory/vive-ultimate-tracker/",
+    "image_url": "https://www.vive.com/media/filer_public/fed-assets/vive-ultimate-tracker/images/jpg/ksp1-1920.jpg",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "2つのカメラを備えるトラッカーの製品解説画像。",
+    "sha256": "b4472eba6d7e786243ab714a7802939863148ab66f1828b17adae537a5a52b55"
+  },
+  {
+    "id": "I07",
+    "path": "references/products/slime-gallery2.jpg",
+    "publisher": "SlimeVR（掲載：Crowd Supply）",
+    "title": "SlimeVR Full-Body Tracker: 本体とストラップ",
+    "page_url": "https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker",
+    "image_url": "https://www.crowdsupply.com/img/5fdf/1405909b-76ae-467b-9bcf-cb3a41245fdf_md-xl.jpg",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "装着可能な製品としての外観を示す写真。",
+    "sha256": "0aa24c9cb2c5598bf5f0bf7984ca494f98e2283469c2fb303e0e9a54a1c4fe0b"
+  },
+  {
+    "id": "I08",
+    "path": "references/products/slime-gallery3.jpg",
+    "publisher": "SlimeVR（掲載：Crowd Supply）",
+    "title": "SlimeVR Full-Body Tracker: 内部基板",
+    "page_url": "https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker",
+    "image_url": "https://www.crowdsupply.com/img/1ea3/3978fcb3-76f3-4b3a-a09b-b7ff2d3a1ea3_md-xl.jpg",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "マイコン・センサー・電池をまとめた内部基板の写真。",
+    "sha256": "32022191d32c9ab54804eb900f729140e51603d347795faa81afd079e8d9d52d"
+  },
+  {
+    "id": "I09",
+    "path": "references/products/flux-beacon.png",
+    "publisher": "FluxPose",
+    "title": "FluxPose Beacon: 製品画像",
+    "page_url": "https://www.fluxpose.com/",
+    "image_url": "https://static.wixstatic.com/media/bd3bae_d3726434d92e41eba8b24bfccf25d6f9~mv2.png",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "信号源となるビーコンの製品画像。",
+    "sha256": "d15890e275f5d09e07232d3a9bf1d5363a2a7c76fc05a3cdd4cce7c38534f080"
+  },
+  {
+    "id": "I10",
+    "path": "references/products/flux-tracker.png",
+    "publisher": "FluxPose",
+    "title": "FluxPose Tracker: 製品画像",
+    "page_url": "https://www.fluxpose.com/",
+    "image_url": "https://static.wixstatic.com/media/2aaeae_6966a7c7940243c4b5a97ccc9562d31d~mv2.png",
+    "accessed": "2026-10-15",
+    "treatment": "原画像を保存し、縦横比を維持して配置。",
+    "context": "身体に装着するトラッカーの製品画像。",
+    "sha256": "6911fe3bcee4620cd3b5b8f2b39594f817d190c744c8231c1433903d6f2891e7"
+  }
+]
